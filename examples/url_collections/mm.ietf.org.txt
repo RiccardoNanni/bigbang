@@ -1016,4 +1016,4 @@ https://ietf.org/mail-archive/text/yang-doctors/
 https://ietf.org/mail-archive/text/yang-multicast/
 https://ietf.org/mail-archive/text/yot/
 https://ietf.org/mail-archive/text/zeroconf/
-
+https://ietf.org/mail-archive/text/6gip/
